@@ -1642,6 +1642,7 @@ containing a value of this type.
         public static final int activity_chooser_view_content=0x7f090021;
         public static final int always=0x7f090014;
         public static final int beginning=0x7f09001b;
+        public static final int buttonFirstActivityID=0x7f090040;
         public static final int checkbox=0x7f090029;
         public static final int collapseActionView=0x7f090015;
         public static final int decor_content_parent=0x7f09002f;
@@ -1684,6 +1685,8 @@ containing a value of this type.
         public static final int split_action_bar=0x7f090004;
         public static final int submit_area=0x7f09003c;
         public static final int tabMode=0x7f09000c;
+        public static final int textViewFirstActivityId=0x7f09003f;
+        public static final int textViewIdSecondlayout=0x7f090041;
         public static final int title=0x7f090027;
         public static final int up=0x7f090001;
         public static final int useLogo=0x7f090013;
@@ -1803,7 +1806,9 @@ containing a value of this type.
          */
         public static final int abc_toolbar_collapse_description=0x7f0a0004;
         public static final int app_name=0x7f0a0010;
+        public static final int button_text_second_activity_id=0x7f0a0015;
         public static final int hello_world=0x7f0a0011;
+        public static final int text_view_second_activity_layout_id=0x7f0a0016;
         public static final int title_activity_fourth=0x7f0a0014;
         public static final int title_activity_second=0x7f0a0012;
         public static final int title_activity_third=0x7f0a0013;

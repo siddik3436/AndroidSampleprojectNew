@@ -5,8 +5,17 @@
     tools:context="${relativePackage}.${activityClass}" >
 
     <TextView
+        android:id="@+id/textViewFirstActivityId"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/hello_world" />
+    <Button 
+        android:id="@+id/buttonFirstActivityID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:onClick="onClick"
+        android:layout_below="@+id/textViewFirstActivityId"
+        android:text="@string/button_text_second_activity_id"/>
 
 </RelativeLayout>

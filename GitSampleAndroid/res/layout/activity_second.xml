@@ -5,8 +5,15 @@
     tools:context="${relativePackage}.${activityClass}" >
 
     <TextView
+        android:id="@+id/textViewIdSecondlayout"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/hello_world" />
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textViewIdSecondlayout"
+        android:text="@string/text_view_second_activity_layout_id"/>
+    
 
 </RelativeLayout>

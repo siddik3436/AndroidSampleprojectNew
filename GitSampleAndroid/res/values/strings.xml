@@ -6,5 +6,7 @@
     <string name="title_activity_second">SecondActivity</string>
     <string name="title_activity_third">ThirdActivity</string>
     <string name="title_activity_fourth">FourthActivity</string>
+    <string name="button_text_second_activity_id">Go To Second Activity</string>
+    <string name="text_view_second_activity_layout_id">This is Second Activity</string>
 
 </resources>
